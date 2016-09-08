@@ -1,31 +1,26 @@
-# Project 1: Model Evaluation & Validation
-## Predicting Boston Housing Prices
+# Udacity
+## Machine Learning Nanodegree
+Machine learning represents a key evolution in the fields of computer science, data analysis, software engineering, and artificial intelligence.
 
-### Install
+This program will teach you how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
 
-This project requires **Python 2.7** and the following Python libraries installed:
+**Co-Created by:**
+- Kaggle
 
-- [NumPy](http://www.numpy.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+## Projects
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+### [Titanic Survival Exploration](https://github.com/jasonicarter/MLND_titanic_survival_exploration)
 
-Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+In this introductory project, we will explore a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive. To complete this project, you will need to implement several conditional predictions and answer the questions below. Your project submission will be evaluated based on the completion of the code and your responses to the questions.
 
-### Code
+### [Predicting Boston Housing Prices](https://github.com/jasonicarter/MLND_boston_housing)
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+In this project, you will apply basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. You will first explore the data to obtain important features and descriptive statistics about the dataset. Next, you will properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. You will then analyze performance graphs for a learning algorithm with varying parameters and training set sizes. This will enable you to pick the optimal model that best generalizes for unseen data. Finally, you will test this optimal model on a new sample and compare the predicted selling price to your statistics.
 
-### Run
+### Build a Student Intervention System
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+### Creating Customer Segments
 
-```ipython notebook boston_housing.ipynb```  
-```jupyter notebook boston_housing.ipynb```
+### Train a Smartcab to Drive
 
-This will open the iPython Notebook software and project file in your browser.
-
-### Data
-
-The dataset used in this project is included with the scikit-learn library ([`sklearn.datasets.load_boston`](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston)). You do not have to download it separately. You can find more information on this dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing) page.
+### Capstone Projectt
